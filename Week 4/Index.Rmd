@@ -1,5 +1,5 @@
 ---
-title: "RMWebsiteTest"
+title: "R Markdown Website Test"
 author: "Haley Ventura"
 date: "2024-02-01"
 output: html_document
